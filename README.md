@@ -1,7 +1,7 @@
 # FaceDetection
 This is a simple face detection program on C++.
 #
-One .cpp file, one .h file, one .dll file and one library file.
+What you need just four files. One .cpp file, one .h file, one .dll file and one library file.
 #
 After you create a C++ project, add the .cpp file to source file and add the .h file to header file.
 #
